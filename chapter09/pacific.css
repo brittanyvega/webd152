@@ -159,7 +159,7 @@ tr:nth-last-of-type(odd) {
         display: block /* db */
     }
     /* Hide the table header elements */
-    #special thread {
+    #special thead {
         display: none; /* dn */
     }
     td.package::before {
